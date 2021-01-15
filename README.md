@@ -1,5 +1,5 @@
 ## Creation of Pipeline between ROS and Carla-Simulator
-[![Watch the video](https://github.com/AlejandroSoumah/Maxim_Simulator_ROS_Carla/blob/main/Screenshot_from_Servo_Motor.mov.png](https://youtu.be/dV73Gp8pXlQ)
+[![Watch the video](https://github.com/AlejandroSoumah/Maxim_Simulator_ROS_Carla/blob/main/Screenshot_from_Servo_Motor.mov.png)](https://youtu.be/dV73Gp8pXlQ)
 
 This is the result of road-segmentation and waypoint creation algorithms applied to Carla-Simulator .
 
